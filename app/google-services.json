@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710328035700",
+    "project_id": "codechallenge-163113"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710328035700:android:b2a1f46669a24d79",
+        "android_client_info": {
+          "package_name": "com.example.asus.codechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710328035700-kmdlvkqkt33g33vjngj7q440vqo0adlh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "710328035700-t3j74hi9i4upiavk1g5tu0lblepa3bvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.codechallenge",
+            "certificate_hash": "2eb1ea47ce2b68ac5ec91381bcbede6826ccca95"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbDQWGMYNsH-193CeBMawZS6D-9Fkkljw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
